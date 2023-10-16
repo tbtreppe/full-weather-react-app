@@ -7,10 +7,7 @@ function App() {
       <Weather defaultCity="New York" />
       <div className="container">
         <footer>
-          <a
-            href="https://github.com/tbtreppe/weather-react-app"
-            target="_blank"
-          >
+          <a href="https://github.com/tbtreppe/weather-react-app">
             Open Source Code
           </a>
           , by Tracey Reis
